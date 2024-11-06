@@ -1,5 +1,5 @@
 version: 2.1
-# Make sure to add MONGODB_URI to ENVIRONMENT VARIABLES in CircleCI so that the tests can connect to the database
+# Hello Make sure to add MONGODB_URI to ENVIRONMENT VARIABLES in CircleCI so that the tests can connect to the database
 orbs:
   cypress: cypress-io/cypress@3.3.1
 
